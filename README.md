@@ -28,6 +28,6 @@ Bu proje, Java programlama dilini kullanarak geliştirilmiştir. Oyunun gelişti
 4. Yapılan değişiklikleri kaydedin ve yeni özellikler eklemek için branch oluşturun.
 5. Değişikliklerinizi özgürce paylaşın ve proje sahibine pull isteği gönderin.
 
-## Daha fazla Projeye ve Videolarına Erişmek İçin [Websitemi Ziyaret Edin !](ayazaktas.netlify.app)
+## Daha fazla Projeye ve Videolarına Erişmek İçin [Websitemi Ziyaret Edin !](https://ayazaktas.netlify.app)
 
 
